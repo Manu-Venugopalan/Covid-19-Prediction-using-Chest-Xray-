@@ -1,5 +1,4 @@
 # 🦠 COVID-19 Detection from Chest X-Rays using Deep Learning
-
 This project focuses on building and evaluating deep learning models to automatically detect COVID-19 infection from chest X-ray images and distinguish it from pneumonia and normal conditions. The goal is to assist medical professionals in the early diagnosis of COVID-19, improving treatment response time and patient outcomes.
 
 ## 🚀 Project Overview
