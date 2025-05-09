@@ -1,4 +1,12 @@
 # 🦠 COVID-19 Detection from Chest X-Rays using Deep Learning
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
+![TensorFlow/Keras](https://img.shields.io/badge/Deep%20Learning-TensorFlow%2FKeras-blue)
+![CNN](https://img.shields.io/badge/Model-CNN%20%2B%20Transfer%20Learning-green)
+![Image Classification](https://img.shields.io/badge/Task-Image%20Classification-yellowgreen)
+![Dataset](https://img.shields.io/badge/Dataset-COVID--19%20X--rays-lightgrey)
+![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 This project focuses on building and evaluating deep learning models to automatically detect COVID-19 infection from chest X-ray images and distinguish it from pneumonia and normal conditions. The goal is to assist medical professionals in the early diagnosis of COVID-19, improving treatment response time and patient outcomes.
 
 ## 🚀 Project Overview
